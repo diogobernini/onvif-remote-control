@@ -1,6 +1,7 @@
 # ONVIF PTZ Camera Control
 
 A simple Python terminal application to discover and control ONVIF PTZ (Pan-Tilt-Zoom) cameras on your network.
+
 <img width="733" alt="Screenshot 2025-05-04 at 18 32 43" src="https://github.com/user-attachments/assets/001eb43d-8699-4251-b7d9-488e1fb9c63b" />
 
 ## Features
