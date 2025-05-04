@@ -1,0 +1,26 @@
+[
+    {
+        "ip": "192.168.100.203",
+        "url": "http://192.168.100.203:8899/onvif/device_service",
+        "last_seen": "2025-05-04 18:24:44",
+        "username": "admin",
+        "password": "********"
+    },
+    {
+        "ip": "192.168.100.186",
+        "url": "http://192.168.100.186:8899/onvif/device_service",
+        "last_seen": "2025-05-04 18:24:44",
+        "username": "aadmin",
+        "password": "********"
+    },
+    {
+        "ip": "192.168.100.120",
+        "url": "http://192.168.100.120:8899/onvif/device_service",
+        "last_seen": "2025-05-04 18:24:44"
+    },
+    {
+        "ip": "192.168.100.20",
+        "url": "http://192.168.100.20:8000/onvif/device_service",
+        "last_seen": "2025-05-04 18:24:44"
+    }
+]
